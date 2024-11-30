@@ -1,0 +1,17 @@
+[
+  {
+    "question": "¿Cuál es la capital de Francia?",
+    "options": ["Madrid", "Paris", "Londres"],
+    "answer": "Paris"
+  },
+  {
+    "question": "¿Cuál es el océano más grande?",
+    "options": ["Atlántico", "Índico", "Pacífico"],
+    "answer": "Pacífico"
+  },
+  {
+    "question": "¿Quién escribió 'Don Quijote'?",
+    "options": ["Miguel de Cervantes", "Shakespeare", "Garcilaso de la Vega"],
+    "answer": "Miguel de Cervantes"
+  }
+]
